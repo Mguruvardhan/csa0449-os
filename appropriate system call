@@ -17,3 +17,6 @@ printf("I am parent having id %d\n",getpid());
 }
 printf("Common\n");
 }
+Current process Id : 2769
+Parent Process Id : 2769 Its Child Process ID : 2770
+Child Process Id : 2770 Its parent ID : 2769
