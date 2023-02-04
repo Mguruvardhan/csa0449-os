@@ -33,6 +33,11 @@ int main()
     printf("\nContents copied to %s", filename);
   
     fclose(fptr1);
+Enter the filename to open for reading
+a.txt
+Enter the filename to open for writing
+b.txt
+Contents copied to b.txt 
     fclose(fptr2);
     return 0;
 }
